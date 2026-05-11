@@ -15,26 +15,33 @@ Building AI-powered systems, automation workflows, and scalable web applications
 
 ---
 
-## ⚡ Tech Stack
+## <img src="https://cdn.simpleicons.org/devbox/9eff00" width="22" /> Tech Stack
 
 <div align="center">
 
-### Core
+### Frontend
 
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![Svelte](https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte)
+
+---
 
 ### Backend & Systems
 
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 ![BullMQ](https://img.shields.io/badge/BullMQ-111111?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
+
+---
 
 ### AI & Tooling
 
@@ -43,32 +50,33 @@ Building AI-powered systems, automation workflows, and scalable web applications
 ![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
+
+---
 
 ### Currently Exploring
 
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
 ![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=tauri)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-111111?style=for-the-badge&logo=webassembly)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs)
 ![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.simpleicons.org/github/9eff00" width="22" /> GitHub Stats
 
 <div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caya8205-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caya8205-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+![GitHubCard](https://githubcard.com/caya8205-2.svg?d=AWvFFQfJ)
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## <img src="https://cdn.simpleicons.org/rocket/9eff00" width="22" /> Current Focus
 
 - AI-powered systems
 - Automation workflows
@@ -79,8 +87,13 @@ Building AI-powered systems, automation workflows, and scalable web applications
 
 ---
 
-<div align="center">
+<div align="justify">
 
-```system.out.println("ship fast, build properly.");```
+```
+fn main() {
+    let motto = "ship fast, build properly.";
+    println!("{}", motto);  
+}
+```
 
 </div>
