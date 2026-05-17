@@ -73,7 +73,7 @@ Building AI-powered systems, automation workflows, and scalable web applications
 
 <div align="center">
 
-![GitHubCard](https://githubcard.com/caya8205-2.svg?d=w5rsRp8X)
+![GitHubCard](https://githubcard.com/caya8205-2.svg?d=A8Ize-rD)
 
 </div>
 
