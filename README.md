@@ -26,7 +26,7 @@ Building AI-powered systems, automation workflows, and scalable web applications
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Svelte](https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte)
 
 ---
@@ -38,19 +38,18 @@ Building AI-powered systems, automation workflows, and scalable web applications
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
-![BullMQ](https://img.shields.io/badge/BullMQ-111111?style=for-the-badge&logo=bull&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-111111?style=for-the-badge&logo=redbull&logoColor=DB0A40)
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
 ### AI & Tooling
 
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge&logo=lightning&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=codio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
