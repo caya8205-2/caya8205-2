@@ -2,9 +2,9 @@
 
 # Heryana Romansyah P.
 
-### Web Engineer — System Designer
+### Fullstack Dev | Software Engineer | AI Enthusiast
 
-Building AI-powered systems, automation workflows, and scalable web applications.
+Designing and building scalable systems, automation workflows, and AI-powered solutions.
 
 <br>
 
