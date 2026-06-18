@@ -23,10 +23,9 @@ Designing and building scalable systems, automation workflows, and AI-powered so
 
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=1572B6)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte)
 
 ---
@@ -34,35 +33,45 @@ Designing and building scalable systems, automation workflows, and AI-powered so
 ### Backend & Systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
+![Fastify](https://img.shields.io/badge/Fastify-111111?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis)
-![BullMQ](https://img.shields.io/badge/BullMQ-111111?style=for-the-badge&logo=redbull&logoColor=DB0A40)
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=insomnia&logoColor=white)
+
+---
+
+### Desktop & Mobile
+
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=tauri&logoColor=24C8DB)
+![Electron](https://img.shields.io/badge/Electron-111111?style=for-the-badge&logo=electron&logoColor=47848F)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
 
 ---
 
 ### AI & Tooling
 
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Google Colab](https://img.shields.io/badge/Google_Colab-111111?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=codio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![WSL](https://img.shields.io/badge/WSL-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
 
 ---
 
 ### Currently Exploring
 
-![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust)
-![Tauri](https://img.shields.io/badge/Tauri-111111?style=for-the-badge&logo=tauri)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-111111?style=for-the-badge&logo=webassembly)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs)
-![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=githubactions)
+![Agentic Automation](https://img.shields.io/badge/Agentic_Automation-111111?style=for-the-badge&logo=githubactions)
 
 </div>
 
