@@ -59,6 +59,8 @@ Designing and building scalable systems, automation workflows, and AI-powered so
 
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
+![Automatic1111](https://img.shields.io/badge/Automatic1111-111111?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-111111?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 ![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=white)
