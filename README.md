@@ -19,6 +19,7 @@
 ### Fullstack
 
 ![Typescript](https://img.shields.io/badge/Typescript-111111?style=for-the-badge&logo=typescript)
+![Bun](https://img.shields.io/badge/Bun-111111?style=for-the-badge&logo=bun)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte)
 
