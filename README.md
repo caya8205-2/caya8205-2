@@ -22,6 +22,8 @@
 ![Bun](https://img.shields.io/badge/Bun-111111?style=for-the-badge&logo=bun)
 ![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-111111?style=for-the-badge&logo=svelte)
+![PNPM](https://img.shields.io/badge/PNPM-111111?style=for-the-badge&logo=pnpm)
+![Turborepo](https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=Turborepo&logoColor=white)
 
 ---
 
