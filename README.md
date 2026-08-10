@@ -86,7 +86,7 @@
 
 <div align="center">
 
-![GitHubCard](https://githubcard.com/caya8205-2.svg?d=A8Ize-rD)
+![GitHubCard](https://githubcard.com/caya8205-2.svg?d=1hUxMHMUDqk1)
 
 </div>
 
