@@ -68,6 +68,7 @@
 
 ### AI & Tooling
 
+![Hermes](https://img.shields.io/badge/Hermes-111111?style=for-the-badge&logo=hermes&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
 ![Automatic1111](https://img.shields.io/badge/Automatic1111-111111?style=for-the-badge)
