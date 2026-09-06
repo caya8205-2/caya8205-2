@@ -90,26 +90,3 @@
 ![GitHubCard](https://githubcard.com/caya8205-2.svg?d=6abNlCVaD19P)
 
 </div>
-
----
-
-## <img src="https://cdn.simpleicons.org/rocket/9eff00" width="22" /> Current Focus
-
-- Fast shipping
-- Internal ERP Development
-- Automation workflows
-- Backend architecture
-- System reliability & scaling
-
----
-
-<div align="justify">
-
-```
-fn main() {
-    let motto = "ship fast, patch later.";
-    println!("{}", motto);  
-}
-```
-
-</div>
